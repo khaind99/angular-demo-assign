@@ -1,0 +1,36 @@
+p {
+  font-family: Lato;
+}
+.header{
+        background-color:#021a7c;
+        height: 40px;
+        position: relative;
+              
+        }
+.header p{ color: #fff;
+           font-size:18px; 
+           margin: 0;
+           margin-left:25px;
+           position: absolute;
+           top: 20%;
+          }
+.textbox {
+  margin-left:20px;
+  width: 450px;
+  height: 20px;
+}     
+.body h2 {
+  margin-left:20px;
+  margin-bottom:0px;
+}    
+.body p {
+  margin-left:20px;
+  margin-top:5px;
+}
+.body ul {
+  margin-left:20px;
+} 
+.body ul button {
+box-align:l ;
+}       
+
